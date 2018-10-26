@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "626602245318",
+    "firebase_url": "https://msmedic-6d183.firebaseio.com",
+    "project_id": "msmedic-6d183",
+    "storage_bucket": "msmedic-6d183.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626602245318:android:09533ab207ae2cf2",
+        "android_client_info": {
+          "package_name": "mx.com.lamarrulla.transporttracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626602245318-uoaf3nb0h6j3bncehgvknbpl29basfm5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mx.com.lamarrulla.transporttracker",
+            "certificate_hash": "cc58b3eb504927c94a1e05dad7d45c2f13d3687a"
+          }
+        },
+        {
+          "client_id": "626602245318-79tb0nuqpk7a0avdts8oosqg0etqm7c8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8abzuMOk7x2dDvm6hvD66fgevTWnvzOw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626602245318-79tb0nuqpk7a0avdts8oosqg0etqm7c8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
