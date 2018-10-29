@@ -23,6 +23,14 @@
           }
         },
         {
+          "client_id": "626602245318-etcahgppdc69ti6agg52192gb42urgqu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mx.com.lamarrulla.transporttracker",
+            "certificate_hash": "b08baaa6bfc87b465319ac3d0a3ba186976dc0cc"
+          }
+        },
+        {
           "client_id": "626602245318-79tb0nuqpk7a0avdts8oosqg0etqm7c8.apps.googleusercontent.com",
           "client_type": 3
         }
