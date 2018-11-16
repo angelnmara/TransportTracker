@@ -19,8 +19,8 @@
                                   <option name="values">
                                     <map>
                                       <entry key="assetType" value="IMAGE" />
-                                      <entry key="imageAsset" value="C:\dave\material-design-icons\communication\drawable-xxxhdpi\ic_vpn_key_black_48dp.png" />
-                                      <entry key="outputName" value="ic_key" />
+                                      <entry key="imageAsset" value="D:\dave\codigo\material-design-icons\maps\drawable-xxxhdpi\ic_person_pin_circle_black_24dp.png" />
+                                      <entry key="outputName" value="ic_location" />
                                       <entry key="theme" value="CUSTOM" />
                                       <entry key="themeColor" value="000202" />
                                     </map>
